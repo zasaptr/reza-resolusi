@@ -2,4 +2,5 @@ Rencana Olahraga
 - Olahraga perut
   * ABS
 - Leher
+ * trapezius
 - Dada
