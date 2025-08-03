@@ -1,6 +1,8 @@
 Rencana Olahraga
 - Olahraga perut
   * ABS
+    ^ Plank
 - Leher
  * trapezius
+    ^ Mengangkat Leher
 - Dada
