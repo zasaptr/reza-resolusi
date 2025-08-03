@@ -1,6 +1,6 @@
 Rencana Olahraga
 - Olahraga perut
   * ABS
-- Leher
- * trapezius
+    ^ sit-up
+    ^ Russian twist
 - Dada
