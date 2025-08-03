@@ -3,4 +3,8 @@ Rencana Olahraga
   * ABS
     ^ sit-up
     ^ Russian twist
+    ^ Leg raise
+- Leher
+ * trapezius
+    ^ Mengangkat Leher
 - Dada
