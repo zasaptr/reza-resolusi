@@ -1,7 +1,8 @@
 Rencana Olahraga
 - Olahraga perut
   * ABS
-    ^ Plank
+    ^ sit-up
+    ^ Russian twist
     ^ Leg raise
 - Leher
  * trapezius
